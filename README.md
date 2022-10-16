@@ -12,3 +12,4 @@ Desarrollador: Todos
 	Backend:
 	Frontend:
 	DB:
+	Administrador configuración:
