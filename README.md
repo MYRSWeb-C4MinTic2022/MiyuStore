@@ -9,7 +9,7 @@ Equipo desarrollador: MYRSWeb
 Product owner (Tutor): Juan Carlos Pérez Castillo
 Scrum master: Mari Luz Rodríguez Vanegas
 Desarrollador: Todos
-	Backend:
+	Backend: Sebastian Villa Castillo
 	Frontend:
 	DB:
 	Administrador configuración:
